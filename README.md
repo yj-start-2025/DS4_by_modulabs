@@ -6,7 +6,8 @@
 - Module_01: Python 기초
 - Module_02: SQL
 - Module_03: Data Transformation
-- Module_04: Statistics 개념정리
+- Module_04: 기초 통계학
+- Modlue_05: 
 
 ## 작성자
 - yj-start-2025
