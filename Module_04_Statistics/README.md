@@ -10,6 +10,11 @@
 - 자료요약 : groupby
 - 난수생성 : 
 02. Day2
+- AARRR Framework
+- 균등분포(Uniform distribution)
+- 베르누이분포(Bernoulli distribution)
+- 이항분포(Binomial distribution)
+- 정규분포(Normal distribution)
 03. Day3
 04. Day4
 05. Day5
