@@ -6,8 +6,8 @@
 - Module_01: Python 기초
 - Module_02: SQL
 - Module_03: Data Transformation
-- Module_04: 기초 통계학
-- Modlue_05: 
+- Module_04: 기초 통계학(가설검정, 선형회귀, 로지스특 등)
+- Modlue_05: 머신러닝
 
 ## 작성자
 - yj-start-2025
