@@ -6,7 +6,8 @@
 - Module_01: Python 기초
 - Module_02: SQL
 - Module_03: Data Transformation
-- Module_04: 기초 통계학(가설검정, 선형회귀, 로지스특 등)
+- Module_04: 기초 통계학(가설검정, 선형회귀, 로지스틱 등)
+  - AARRR, Cohort분석, 생존 분석 일부 포함
 - Modlue_05: 머신러닝
 
 ## 작성자
