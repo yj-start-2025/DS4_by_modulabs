@@ -8,6 +8,7 @@
 - Module_03: Data전처리, Feature Engineering
 - Module_04: 기초 통계학(가설검정, 선형회귀, 로지스틱 등)
 - Modlue_05: 머신러닝
+- Module_06: 시계열데이터(ARIMA, ARCH 포함)
 
 ## 작성자
 - yj-start-2025
