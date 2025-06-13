@@ -10,6 +10,7 @@
 - Modlue_05: 머신러닝
 - Module_06: 시계열데이터(ARIMA, ARCH 포함)
 - Module_07: Datathon
+- Module_08: DeepLeanring & NLP
 
 ## 작성자
 - yj-start-2025
