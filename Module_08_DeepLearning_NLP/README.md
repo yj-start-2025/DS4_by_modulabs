@@ -5,7 +5,7 @@
 - 4일차 : Boston주택가격, Reuters기사분류, CIFAR-10 MLP 적용하기
   - CIFAR-10 : MLP로는 test_set의 accuracy가 0.5 달성도 어려움(CNN이 나음)
     - MLP : loss 1.4466, accuracy 0.4807
-    - CNN 실험결과 요약 
+    - CNN 실험결과 요약(DL04_2_CIFAR10.ipynb 참고) 
 
 | 실험 | 주요 특징                           |          Test Loss | Test Accuracy |
 |------|------------------------------------|-----------|----------------|
