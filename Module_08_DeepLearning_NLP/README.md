@@ -6,6 +6,7 @@
   - CIFAR-10 : MLP로는 test_set의 accuracy가 0.5 달성도 어려움(CNN이 나음)
     - MLP : loss 1.4466, accuracy 0.4807
     - CNN 실험결과 요약
+
 | 실험 | 주요 특징                           | Test Loss | Test Accuracy |
 |------|------------------------------------|-----------|----------------|
 | 1    | Conv2D(32)-MaxPool-FC              | 1.210     | 0.580          |
