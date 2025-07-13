@@ -11,6 +11,10 @@
 - Module_06: 시계열데이터(ARIMA, ARCH 포함)
 - Module_07: Datathon
 - Module_08: DeepLeanring & NLP
+- Module_09: LLM and RAG
+- Module_10: LangChain_tone
+  - 재취업이 되어서 Module_10 부터는 '모두의 연구소'를 떠나게 되었다.
+- Module_11: Recommendation Systems(추천시스템)
 
 ## 작성자
 - yj-start-2025
